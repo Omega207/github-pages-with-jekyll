@@ -1,3 +1,8 @@
+---
+title: "Help! Sonic Fangame Engine Needed!
+date: 3-19-2022
+---
+
 # HELP! Fangame Engine for Sonic Needed!
 So, lately I've been having a brainstorm about a new Sonic the Hedgehog fangame. A few, actually. But I can't get a good one that actually works! 
 I'm attempting to use the Sonic Infinity Engine Plus, but I cannot find a visible editor: it's also in .exe! 
