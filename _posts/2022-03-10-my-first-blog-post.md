@@ -1,6 +1,6 @@
 ---
-title: "Help! Sonic Fangame Engine Needed!
-date: 3-19-2022
+title: "Help! Sonic Fangame Engine Needed!"
+date: 2022-3-19
 ---
 
 # HELP! Fangame Engine for Sonic Needed!
